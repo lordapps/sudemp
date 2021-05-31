@@ -11,7 +11,7 @@ const About = () => {
     <div>
         <h1>About</h1>
         <p>
-            hsdkfjhsd k hsdkjfhsdkfjhsdkh fksdh 
+            About k hsdkjfhsdkfjhsdkh fksdh 
         </p>
     </div> 
     </>
